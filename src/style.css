@@ -44,7 +44,7 @@ li:first-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
-  background-color: #dbd0f7;
+  background-color:rgb(204, 231, 243);
 }
 
 .weather-app {
